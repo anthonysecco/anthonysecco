@@ -4,6 +4,7 @@ I enjoy working on IoT projects for my camper van.
 
 Check out my ESPHome Projects:
 [Undermount AC Thermostat](https://anthonysecco.github.io/undermount-ac-esphome-thermostat/)
+
 Rixen MCS6 Thermostat (Coming soon)
 
 <!---
