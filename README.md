@@ -9,7 +9,7 @@ I enjoy working on IoT projects for my camper van.
 - [Ford Transit Door Interface](https://github.com/anthonysecco/ford-transit-door-interface)
 
 🚙 WiCan:
-- [Ford Transit](https://github.com/anthonysecco/WiCAN-Ford-Transit)
+- [Ford Transit](https://github.com/anthonysecco/WiCAN-Ford-Transit) >> [WiCAN](https://github.com/meatpiHQ/wican-fw)
 
 🥧 Raspberry Pi:
 - [RPi5 Wi-Fi 6 AP](https://github.com/anthonysecco/WiCAN-Ford-Transit)
