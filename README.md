@@ -12,10 +12,10 @@ I enjoy working on IoT projects for my camper van.
 - [Ford Transit](https://github.com/anthonysecco/WiCAN-Ford-Transit) >> [WiCAN](https://github.com/meatpiHQ/wican-fw)
 
 🥧 Raspberry Pi:
-- [RPi5 Wi-Fi 6 AP](https://github.com/anthonysecco/WiCAN-Ford-Transit)
+- [RPi5 Wi-Fi 6 AP](https://github.com/anthonysecco/rpi5-wifi-6-ap)
 
 🕸️ Web Services:
-- [US Public Lands](https://github.com/anthonysecco/public-lands-ha-sensor)
+- [Public Lands](https://github.com/anthonysecco/public-lands-ha-sensor)
 
 <!---
 asecco1/asecco1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
