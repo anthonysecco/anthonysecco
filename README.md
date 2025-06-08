@@ -7,6 +7,7 @@ I enjoy working on IoT projects for my camper van.
 - [Thermostat for Undermount AC](https://anthonysecco.github.io/undermount-ac-esphome-thermostat/)
 - Thermostat for Rixen MCS6 (Coming soon)
 - [Ford Transit Door Interface](https://github.com/anthonysecco/ford-transit-door-interface)
+- [Victron BLE Monitoring](https://github.com/anthonysecco/victron-orion-tr-home-assistant)
 
 🚙 WiCAN:
 - [Ford Transit](https://github.com/anthonysecco/WiCAN-Ford-Transit) >> [WiCAN](https://github.com/meatpiHQ/wican-fw)
