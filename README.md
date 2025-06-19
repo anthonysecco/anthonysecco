@@ -10,7 +10,7 @@ I enjoy working on IoT projects for my camper van.
 - [Victron BLE Monitoring](https://github.com/anthonysecco/victron-orion-tr-home-assistant)
 
 🚙 CANbus:
-- [Ford Transit](https://github.com/anthonysecco/WiCAN-Ford-Transit) >> [WiCAN](https://github.com/meatpiHQ/wican-fw)
+- [WiCAN Ford Transit](https://github.com/anthonysecco/WiCAN-Ford-Transit)
 
 🥧 Raspberry Pi:
 - [RPi5 Wi-Fi 6 AP](https://github.com/anthonysecco/rpi5-wifi-6-ap)
