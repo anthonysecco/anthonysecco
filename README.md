@@ -4,9 +4,9 @@ I enjoy working on IoT projects for my camper van.
 
 # Projects
 💻 ESPHome:
+- [Ford Transit Door Interface](https://github.com/anthonysecco/ford-transit-door-interface)
 - [Thermostat for Undermount AC](https://anthonysecco.github.io/undermount-ac-esphome-thermostat/)
 - Thermostat for Rixen MCS6 (Coming soon)
-- [Ford Transit Door Interface](https://github.com/anthonysecco/ford-transit-door-interface)
 - [Victron BLE Monitoring](https://github.com/anthonysecco/victron-orion-tr-home-assistant)
 
 🚙 CANbus:
