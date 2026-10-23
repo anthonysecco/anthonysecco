@@ -2,6 +2,8 @@
 
 I enjoy working on IoT projects for my camper van and building Home Assistant integrations for home energy and utilities.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://www.buymeacoffee.com/anthonysecco)
+
 # Projects
 
 🚐 Van Automation (ESPHome):
