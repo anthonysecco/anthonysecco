@@ -21,7 +21,7 @@ I enjoy working on IoT projects for my camper van and building Home Assistant in
 - [RPi5 Wi-Fi 6 AP](https://github.com/anthonysecco/rpi5-wifi-6-ap): Raspberry Pi 5 Wi-Fi 6 access point
 
 ⚡ Energy & Utilities (Home Assistant):
-- [CAISO Stats](https://github.com/anthonysecco/caiso-stats): California grid status, demand, supply mix and load-shifting signals
+- [CAISO Stats](https://github.com/anthonysecco/caiso-stats): California grid status, demand, supply mix and carbon intensity
 - [WattTime Stats](https://github.com/anthonysecco/watttime-stats): live grid emissions, forecasts and clean-energy windows
 - [San Jose Water Stats](https://github.com/anthonysecco/sjwater-stats): hourly water usage plus leak and high-use alerts
 
